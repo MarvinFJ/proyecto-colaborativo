@@ -1,1 +1,2 @@
 # proyecto-colaborativo
+"Este es el proyecto lider de la empresa"
