@@ -1,2 +1,2 @@
 # proyecto-colaborativo
-"Proyecto de innovacion web"
+"Este es el proyecto lider de la empresa"
